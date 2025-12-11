@@ -34,11 +34,11 @@ Level 4 → 5 : 55 XP
 
 Curve will grow non-linearly to maintain long-term motivation.
 
-### Foundational KPI Category
+### Lifestyle Balance KPI
 KPIs include:
 - Sleep quality 
 - Nutrition habits 
-- Exercise frequency 
+- Productivity Load
 - Housekeeping 
 - Self-care routines 
 - Mindfulness or meditation 
