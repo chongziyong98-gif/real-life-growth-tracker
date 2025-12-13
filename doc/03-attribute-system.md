@@ -13,13 +13,13 @@ Examples:
 Purpose in App:
 Supports daily learning habits, long-term mastery, and self-education consistency.
 
-## 2. Charisma
+## 2. Leadership
 Represents communication ability, confidence, and social presence.
 Examples:
 - Social interactions
 - Presentations
-- Meeting new people
-- Practicing speaking skills
+- Adjusting Tone
+- Internal Reflection
 
 Purpose in App:
 Encourages healthy social habits and self-presentation awareness.
@@ -28,9 +28,9 @@ Encourages healthy social habits and self-presentation awareness.
 Represents emotional maturity, empathy, and personal resilience.
 Examples:
 - observing cues (emotional reading)
-- adjusting tone 
-- understanding others’ needs 
-- anticipating reactions
+- Identify characteristic
+- Receiving thanks
+- Active Listening
 
 Purpose in App:
 This maps directly to Emotional Intelligence (EQ)
